@@ -1,5 +1,4 @@
 ﻿using System;
-
 class Program
 {
     static void Main(string[] args)
@@ -8,6 +7,5 @@ class Program
         string str2 = "School";
         Console.Write("Welcome to ");
         Console.WriteLine(str1 + " " + str2 + "!");
-
 	}
 }
