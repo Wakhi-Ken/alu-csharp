@@ -12,11 +12,6 @@ fi
 # Create a new console project
 dotnet new console -o "$DIR"
 
-# Navigate into the project folder
-cd "$DIR" || exit
+# Build the project (no need to cd or restore separately)
+dotnet build "$DIR"
 
-# Restore dependencies
-dotnet restore
-
-# Build the project
-dotnet build
