@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\2-new_project\bin\Debug\net7.0\2-new_project.exe
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\2-new_project\bin\Debug\net7.0\2-new_project.deps.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\2-new_project\bin\Debug\net7.0\2-new_project.runtimeconfig.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\2-new_project\bin\Debug\net7.0\2-new_project.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\2-new_project\bin\Debug\net7.0\2-new_project.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\2-new_project\obj\Debug\net7.0\2-new_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\2-new_project\obj\Debug\net7.0\2-new_project.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\2-new_project\obj\Debug\net7.0\2-new_project.AssemblyInfo.cs
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\2-new_project\obj\Debug\net7.0\2-new_project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\2-new_project\obj\Debug\net7.0\2-new_project.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\2-new_project\obj\Debug\net7.0\refint\2-new_project.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\2-new_project\obj\Debug\net7.0\2-new_project.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\2-new_project\obj\Debug\net7.0\2-new_project.genruntimeconfig.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\2-new_project\obj\Debug\net7.0\ref\2-new_project.dll
