@@ -12,6 +12,6 @@ fi
 # Create a new console project
 dotnet new console -o "$DIR"
 
-# Build the project (no need to cd or restore separately)
+# Build the project
 dotnet build "$DIR"
 
