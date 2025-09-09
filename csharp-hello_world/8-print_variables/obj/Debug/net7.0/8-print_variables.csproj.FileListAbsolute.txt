@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\8-print_variables\bin\Debug\net7.0\8-print_variables.exe
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\8-print_variables\bin\Debug\net7.0\8-print_variables.deps.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\8-print_variables\bin\Debug\net7.0\8-print_variables.runtimeconfig.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\8-print_variables\bin\Debug\net7.0\8-print_variables.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\8-print_variables\bin\Debug\net7.0\8-print_variables.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\8-print_variables\obj\Debug\net7.0\8-print_variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\8-print_variables\obj\Debug\net7.0\8-print_variables.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\8-print_variables\obj\Debug\net7.0\8-print_variables.AssemblyInfo.cs
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\8-print_variables\obj\Debug\net7.0\8-print_variables.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\8-print_variables\obj\Debug\net7.0\8-print_variables.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\8-print_variables\obj\Debug\net7.0\refint\8-print_variables.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\8-print_variables\obj\Debug\net7.0\8-print_variables.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\8-print_variables\obj\Debug\net7.0\8-print_variables.genruntimeconfig.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\8-print_variables\obj\Debug\net7.0\ref\8-print_variables.dll
