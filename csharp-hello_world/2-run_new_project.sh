@@ -9,9 +9,6 @@ if [ -d "$DIR" ]; then
   rm -rf "$DIR"
 fi
 
-# Create a new console project
-dotnet new console -o "$DIR"
-
 # Build the project
 dotnet build "$DIR"
 
