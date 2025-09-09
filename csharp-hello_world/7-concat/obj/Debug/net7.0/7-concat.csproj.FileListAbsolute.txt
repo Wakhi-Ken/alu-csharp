@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\7-concat\bin\Debug\net7.0\7-concat.exe
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\7-concat\bin\Debug\net7.0\7-concat.deps.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\7-concat\bin\Debug\net7.0\7-concat.runtimeconfig.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\7-concat\bin\Debug\net7.0\7-concat.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\7-concat\bin\Debug\net7.0\7-concat.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.AssemblyInfo.cs
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\refint\7-concat.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\7-concat.genruntimeconfig.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\7-concat\obj\Debug\net7.0\ref\7-concat.dll
