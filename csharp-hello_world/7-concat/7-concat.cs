@@ -6,7 +6,7 @@ class Program
     {
         string str1 = "Holberton";
         string str2 = "School";
-        string fullStr = str1 + " " + str2;
-        Console.WriteLine("Welcome to {0}!", fullStr);
+        string str3 = str1 + " " + str2;
+        Console.WriteLine("Welcome to {0}!", str3);
     }
 }
