@@ -6,9 +6,8 @@ class Program
     {
         for (int i = 0; i < 100; i++)
         {
-         if (i < 99)
-         Console.Write(", ");
-         Console.Write($"{i:D2}");
+            Console.Write($"{i:D2}{(i < 99 ? ", " : "")}");
         }
+        Console.WriteLine();
     }
 }
