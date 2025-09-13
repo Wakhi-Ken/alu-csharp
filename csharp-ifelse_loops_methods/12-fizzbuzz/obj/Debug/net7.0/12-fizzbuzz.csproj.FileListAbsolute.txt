@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\net7.0\12-fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\net7.0\12-fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\net7.0\12-fizzbuzz.AssemblyInfo.cs
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\net7.0\12-fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\12-fizzbuzz\bin\Debug\net7.0\12-fizzbuzz.exe
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\12-fizzbuzz\bin\Debug\net7.0\12-fizzbuzz.deps.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\12-fizzbuzz\bin\Debug\net7.0\12-fizzbuzz.runtimeconfig.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\12-fizzbuzz\bin\Debug\net7.0\12-fizzbuzz.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\12-fizzbuzz\bin\Debug\net7.0\12-fizzbuzz.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\net7.0\12-fizzbuzz.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\net7.0\refint\12-fizzbuzz.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\net7.0\12-fizzbuzz.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\net7.0\12-fizzbuzz.genruntimeconfig.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\12-fizzbuzz\obj\Debug\net7.0\ref\12-fizzbuzz.dll
