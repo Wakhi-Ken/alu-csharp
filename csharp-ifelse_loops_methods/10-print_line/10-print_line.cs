@@ -2,11 +2,11 @@
 
 public class Line
 {
-    public static void PrintLine(int n)
+    public static void PrintLine(int l)
     {
-        if (n > 0)
+        if (l > 0)
         {
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < l; i++)
             {
                 Console.Write('_');
             }

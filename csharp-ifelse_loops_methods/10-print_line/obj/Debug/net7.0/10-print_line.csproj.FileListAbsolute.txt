@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\10-print_line\bin\Debug\net7.0\10-print_line.exe
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\10-print_line\bin\Debug\net7.0\10-print_line.deps.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\10-print_line\bin\Debug\net7.0\10-print_line.runtimeconfig.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\10-print_line\bin\Debug\net7.0\10-print_line.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\10-print_line\bin\Debug\net7.0\10-print_line.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.AssemblyInfo.cs
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\refint\10-print_line.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\10-print_line.genruntimeconfig.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\10-print_line\obj\Debug\net7.0\ref\10-print_line.dll
