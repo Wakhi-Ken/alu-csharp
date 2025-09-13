@@ -1,4 +1,0 @@
-C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.AssemblyInfoInputs.cache
-C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.AssemblyInfo.cs
-C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\obj\Debug\net7.0\csharp-hello_world.csproj.CoreCompileInputs.cache
