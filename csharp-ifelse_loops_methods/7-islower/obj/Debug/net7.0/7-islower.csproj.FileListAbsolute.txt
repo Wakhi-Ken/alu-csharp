@@ -1,0 +1,4 @@
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\net7.0\7-islower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\net7.0\7-islower.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\net7.0\7-islower.AssemblyInfo.cs
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\7-islower\obj\Debug\net7.0\7-islower.csproj.CoreCompileInputs.cache
