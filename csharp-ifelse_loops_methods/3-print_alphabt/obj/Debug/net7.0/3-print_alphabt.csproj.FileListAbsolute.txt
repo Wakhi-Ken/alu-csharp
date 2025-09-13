@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\net7.0\3-print_alphabt.exe
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\net7.0\3-print_alphabt.deps.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\net7.0\3-print_alphabt.runtimeconfig.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\net7.0\3-print_alphabt.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\bin\Debug\net7.0\3-print_alphabt.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.AssemblyInfo.cs
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\refint\3-print_alphabt.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\3-print_alphabt.genruntimeconfig.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\3-print_alphabt\obj\Debug\net7.0\ref\3-print_alphabt.dll
