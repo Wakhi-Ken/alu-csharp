@@ -9,15 +9,15 @@ class Program
         
         if (number > 0)
         {
-            Console.WriteLine($"Number {number} is positive");
+            Console.WriteLine($"{number} is positive");
         }
         else if (number == 0) 
         {
-            Console.WriteLine($"Number {number} is zero");
+            Console.WriteLine($"{number} is zero");
         }
         else if (number < 0)
         {
-            Console.WriteLine($"Number {number} is negative");
+            Console.WriteLine($"{number} is negative");
         }
     }
 }
