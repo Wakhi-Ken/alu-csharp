@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\net7.0\1-last_digit.exe
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\net7.0\1-last_digit.deps.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\net7.0\1-last_digit.runtimeconfig.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\net7.0\1-last_digit.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\net7.0\1-last_digit.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net7.0\1-last_digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net7.0\1-last_digit.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net7.0\1-last_digit.AssemblyInfo.cs
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net7.0\1-last_digit.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net7.0\1-last_digit.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net7.0\refint\1-last_digit.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net7.0\1-last_digit.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net7.0\1-last_digit.genruntimeconfig.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net7.0\ref\1-last_digit.dll
