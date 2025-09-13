@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\net7.0\0-positive_or_negative.exe
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\net7.0\0-positive_or_negative.deps.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\net7.0\0-positive_or_negative.runtimeconfig.json
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\net7.0\0-positive_or_negative.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\bin\Debug\net7.0\0-positive_or_negative.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\net7.0\0-positive_or_negative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\net7.0\0-positive_or_negative.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\net7.0\0-positive_or_negative.AssemblyInfo.cs
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\net7.0\0-positive_or_negative.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\net7.0\0-positive_or_negative.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\net7.0\refint\0-positive_or_negative.dll
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\net7.0\0-positive_or_negative.pdb
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\net7.0\0-positive_or_negative.genruntimeconfig.cache
+C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-ifelse_loops_methods\0-positive_or_negative\obj\Debug\net7.0\ref\0-positive_or_negative.dll
