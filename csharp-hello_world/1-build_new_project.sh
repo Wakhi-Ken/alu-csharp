@@ -6,4 +6,4 @@ mkdir -p "$DIR"
 
 dotnet new console -o "$DIR"
 
-dotnet build
+dotnet build -o "$DIR"
