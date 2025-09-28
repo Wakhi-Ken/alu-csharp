@@ -8,7 +8,7 @@ public class Dictionary
         if (myList.Count == 0)
             return "None";
 
-        string bestKey = null;
+        string bestKey = "";
         int maxValue = -1;
 
         foreach (KeyValuePair<string, int> entry in myList)
