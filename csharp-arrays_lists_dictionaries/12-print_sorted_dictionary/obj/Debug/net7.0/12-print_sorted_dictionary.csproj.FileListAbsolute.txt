@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\bin\Debug\net7.0\12-print_sorted_dictionary.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\refint\12-print_sorted_dictionary.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\12-print_sorted_dictionary.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\obj\Debug\net7.0\ref\12-print_sorted_dictionary.dll
