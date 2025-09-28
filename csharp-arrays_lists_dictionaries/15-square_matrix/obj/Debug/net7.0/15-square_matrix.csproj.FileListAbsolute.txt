@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net7.0\15-square_matrix.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net7.0\15-square_matrix.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net7.0\15-square_matrix.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net7.0\15-square_matrix.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net7.0\15-square_matrix.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\15-square_matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\15-square_matrix.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\15-square_matrix.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\15-square_matrix.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\15-square_matrix.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\refint\15-square_matrix.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\15-square_matrix.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\15-square_matrix.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net7.0\ref\15-square_matrix.dll
