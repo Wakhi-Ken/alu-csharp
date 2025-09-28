@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\bin\Debug\net7.0\9-add_key_value.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\bin\Debug\net7.0\9-add_key_value.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\bin\Debug\net7.0\9-add_key_value.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\bin\Debug\net7.0\9-add_key_value.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\bin\Debug\net7.0\9-add_key_value.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net7.0\9-add_key_value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net7.0\9-add_key_value.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net7.0\9-add_key_value.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net7.0\9-add_key_value.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net7.0\9-add_key_value.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net7.0\refint\9-add_key_value.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net7.0\9-add_key_value.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net7.0\9-add_key_value.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net7.0\ref\9-add_key_value.dll
