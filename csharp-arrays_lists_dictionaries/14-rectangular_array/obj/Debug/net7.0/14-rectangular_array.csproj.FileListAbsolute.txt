@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net7.0\14-rectangular_array.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\refint\14-rectangular_array.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\14-rectangular_array.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net7.0\ref\14-rectangular_array.dll
