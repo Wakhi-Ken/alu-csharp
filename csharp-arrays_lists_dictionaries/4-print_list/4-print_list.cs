@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 
 public class List
-{ 
-   public static List<int>? CreatePrint(int size)
-   {
+{
+    public static List<int>? CreatePrint(int size)
+    {
         if (size < 0)
         {
             Console.WriteLine("Size cannot be negative");
@@ -12,6 +12,7 @@ public class List
         }
 
         List<int> newList = new List<int>();
+
         for (int i = 0; i < size; i++)
         {
             newList.Add(i);
@@ -20,6 +21,7 @@ public class List
                 Console.Write(" ");
         }
         Console.WriteLine();
+
         return newList;
-   }
+    }
 }
