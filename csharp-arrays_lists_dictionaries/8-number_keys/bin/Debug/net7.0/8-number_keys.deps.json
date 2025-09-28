@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "8-number_key/1.0.0": {
+      "8-number_keys/1.0.0": {
         "runtime": {
-          "8-number_key.dll": {}
+          "8-number_keys.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "8-number_key/1.0.0": {
+    "8-number_keys/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

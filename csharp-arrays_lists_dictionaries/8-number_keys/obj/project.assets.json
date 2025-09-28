@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\8-number_key.csproj",
-      "projectName": "8-number_key",
-      "projectPath": "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\8-number_key.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\8-number_keys.csproj",
+      "projectName": "8-number_keys",
+      "projectPath": "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\8-number_keys.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-arrays_lists_dictionaries\\8-number_keys\\obj\\",
       "projectStyle": "PackageReference",

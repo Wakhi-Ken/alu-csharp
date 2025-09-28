@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\refint\8-number_keys.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\ref\8-number_keys.dll
