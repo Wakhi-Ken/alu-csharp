@@ -1,18 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class Program
+public class List
 {
-    // Main - entry point
-    static void Main(string[] args)
+    public static List<int> DifferentElements(List<int> list1, List<int> list2)
     {
-        List<int> myList1 = new List<int>() {1, 2, 3, 4, 5, 6};
-        List<int> myList2 = new List<int>() {0, 2, 4, 6, 7, 8};
-        List<int> different;
+        if (list1 == null || list2 == null) return new List<int>(); // null-safety
 
-        different = List.DifferentElements(myList1, myList2);
+        HashSet<int> set1 = new HashSet<int>(list1);
+        HashSet<int> differentElements = new HashSet<int>(set1);
 
-        foreach (int i in different)
-            Console.WriteLine(i);
+        foreach (int number in list2)
+        {
+            if (differentElements.Contains(number))
+            {
+                differentElements.Remove(number);
+            }
+            else
+            {
+                differentElements.Add(number);
+            }
+        }
+
+        return new List<int>(differentElements);
     }
 }
