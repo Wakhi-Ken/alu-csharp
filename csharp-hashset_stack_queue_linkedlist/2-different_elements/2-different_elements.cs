@@ -5,23 +5,25 @@ public class List
 {
     public static List<int> DifferentElements(List<int> list1, List<int> list2)
     {
-        if (list1 == null || list2 == null) return new List<int>(); // null-safety
+        List<int> result = new List<int>();
 
-        HashSet<int> set1 = new HashSet<int>(list1);
-        HashSet<int> differentElements = new HashSet<int>(set1);
-
-        foreach (int number in list2)
+        // Add elements from list1 not in list2
+        foreach (int item in list1)
         {
-            if (differentElements.Contains(number))
-            {
-                differentElements.Remove(number);
-            }
-            else
-            {
-                differentElements.Add(number);
-            }
+            if (!list2.Contains(item))
+                result.Add(item);
         }
 
-        return new List<int>(differentElements);
+        // Add elements from list2 not in list1
+        foreach (int item in list2)
+        {
+            if (!list1.Contains(item))
+                result.Add(item);
+        }
+
+        // Sort result before returning
+        result.Sort();
+
+        return result;
     }
 }
