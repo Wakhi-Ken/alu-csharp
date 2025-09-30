@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\net7.0\1-common_elements.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\net7.0\1-common_elements.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\net7.0\1-common_elements.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\net7.0\1-common_elements.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\net7.0\1-common_elements.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\refint\1-common_elements.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\1-common_elements.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\net7.0\ref\1-common_elements.dll
