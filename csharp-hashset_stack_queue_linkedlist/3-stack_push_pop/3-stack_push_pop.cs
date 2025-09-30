@@ -3,30 +3,40 @@ using System.Collections.Generic;
 
 public class MyStack
 {
-    public static void Info(Stack<string> stack, string search1, string search2)
+    public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
     {
-        if (stack == null) return; // null-safety
+        // Print number of items
+        Console.WriteLine("Number of items: " + aStack.Count);
 
-        Stack<string> tempStack = new Stack<string>();
-        bool foundSearch1 = false;
-        bool foundSearch2 = false;
-
-        while (stack.Count > 0)
+        // Print top item or empty message
+        if (aStack.Count > 0)
         {
-            string item = stack.Pop();
-            if (item == search1)
-                foundSearch1 = true;
-            if (item == search2)
-                foundSearch2 = true;
-            tempStack.Push(item);
+            Console.WriteLine("Top item: " + aStack.Peek());
+        }
+        else
+        {
+            Console.WriteLine("Stack is empty");
         }
 
-        while (tempStack.Count > 0)
+        // Check if stack contains search
+        bool contains = aStack.Contains(search);
+        Console.WriteLine($"Stack contains \"{search}\": {contains}");
+
+        if (contains)
         {
-            stack.Push(tempStack.Pop());
+            // Pop once and store
+            string popped = aStack.Pop();
+
+            // Keep popping until we removed search
+            while (popped != search && aStack.Count > 0)
+            {
+                popped = aStack.Pop();
+            }
         }
 
-        Console.WriteLine($"Found '{search1}': {foundSearch1}");
-        Console.WriteLine($"Found '{search2}': {foundSearch2}");
+        // Push new item
+        aStack.Push(newItem);
+
+        return aStack;
     }
 }
