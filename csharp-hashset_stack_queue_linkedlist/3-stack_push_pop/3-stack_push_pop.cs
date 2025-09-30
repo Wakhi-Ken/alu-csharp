@@ -22,16 +22,10 @@ public class MyStack
         bool contains = aStack.Contains(search);
         Console.WriteLine($"Stack contains \"{search}\": {contains}");
 
-        if (contains)
+        // Pop only once if the top item is the search
+        if (contains && aStack.Count > 0 && aStack.Peek() == search)
         {
-            // Pop once and store
-            string popped = aStack.Pop();
-
-            // Keep popping until we removed search
-            while (popped != search && aStack.Count > 0)
-            {
-                popped = aStack.Pop();
-            }
+            aStack.Pop(); // only one Pop allowed
         }
 
         // Push new item
