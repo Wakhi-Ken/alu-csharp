@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\net7.0\8-linkedlist_find.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\net7.0\8-linkedlist_find.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\net7.0\8-linkedlist_find.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\net7.0\8-linkedlist_find.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\net7.0\8-linkedlist_find.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net7.0\8-linkedlist_find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net7.0\8-linkedlist_find.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net7.0\8-linkedlist_find.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net7.0\8-linkedlist_find.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net7.0\8-linkedlist_find.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net7.0\refint\8-linkedlist_find.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net7.0\8-linkedlist_find.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net7.0\8-linkedlist_find.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net7.0\ref\8-linkedlist_find.dll
