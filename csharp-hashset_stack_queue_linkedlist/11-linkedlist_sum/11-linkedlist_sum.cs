@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using System.Collections.Generic;
+
+class LList
+{
+    public static int Sum(LinkedList<int> myLList)
+    {
+        int total = 0;
+
+        foreach (int value in myLList)
+        {
+            total += value;
+        }
+
+        return total;
+    }
+}
