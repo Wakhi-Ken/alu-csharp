@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\net7.0\12-linkedlist_insert.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\net7.0\12-linkedlist_insert.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\net7.0\12-linkedlist_insert.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\net7.0\12-linkedlist_insert.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\net7.0\12-linkedlist_insert.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\refint\12-linkedlist_insert.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\12-linkedlist_insert.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\net7.0\ref\12-linkedlist_insert.dll
