@@ -1,51 +1,51 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class MyStack
+public class MyStack
 {
     public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
     {
-        // Print number of items
+        if (aStack == null)
+            aStack = new Stack<string>();
+
+        // Number of items
         Console.WriteLine($"Number of items: {aStack.Count}");
 
-        if (aStack.Count == 0)
-        {
-            Console.WriteLine("Stack is empty");
-        }
-        else
-        {
-            Console.WriteLine($"Top item: {aStack.Peek()}");
-        }
+        // Top item
+        string? topItem = aStack.Count > 0 ? aStack.Peek() : null;
+        Console.WriteLine(topItem != null ? $"Top item: {topItem}" : "Stack is empty");
 
-        bool contains = aStack.Contains(search);
-        Console.WriteLine($"Stack contains \"{search}\": {contains}");
+        // Check if contains search item
+        bool containsSearch = aStack.Contains(search);
+        Console.WriteLine($"Stack contains \"{search}\": {containsSearch}");
 
-        if (contains)
+        // Remove items up to and including search
+        if (containsSearch)
         {
-            // ⚡ Only ONE Pop()
-            string[] arr = aStack.ToArray();   // snapshot of stack (top → bottom)
-            aStack.Pop();                      // the one allowed pop (removes top)
+            Stack<string> tempStack = new Stack<string>();
+            bool found = false;
 
-            // Rebuild: keep everything BELOW the search
-            Stack<string> rebuilt = new Stack<string>();
-            bool skip = false;
-            for (int i = arr.Length - 1; i >= 0; i--)  // bottom → top
+            while (aStack.Count > 0)
             {
-                if (!skip && arr[i] == search)
+                string item = aStack.Pop();
+                if (item == search)
                 {
-                    skip = true; // found the search → skip it and everything above
-                    continue;
+                    found = true;
+                    break;
                 }
-                if (!skip)
+                else
                 {
-                    rebuilt.Push(arr[i]);
+                    tempStack.Push(item);
                 }
             }
 
-            aStack = rebuilt;
+            while (tempStack.Count > 0)
+            {
+                aStack.Push(tempStack.Pop());
+            }
         }
 
-        // Add the new item
+        // Add new item
         aStack.Push(newItem);
 
         return aStack;
