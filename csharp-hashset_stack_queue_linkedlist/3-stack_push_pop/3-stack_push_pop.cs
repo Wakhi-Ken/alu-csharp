@@ -1,32 +1,50 @@
 ﻿using System;
 using System.Collections.Generic;
 
-public class MyStack
+class MyStack
 {
-    public static void Info(Stack<string> stack, string search1, string search2)
+    public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
     {
-        if (stack == null) return; // null-safety
+        // Print number of items
+        Console.WriteLine($"Number of items: {aStack.Count}");
 
-        Stack<string> tempStack = new Stack<string>();
-        bool foundSearch1 = false;
-        bool foundSearch2 = false;
-
-        while (stack.Count > 0)
+        // Check if stack is empty
+        if (aStack.Count == 0)
         {
-            string item = stack.Pop();
-            if (item == search1)
-                foundSearch1 = true;
-            if (item == search2)
-                foundSearch2 = true;
-            tempStack.Push(item);
+            Console.WriteLine("Stack is empty");
+        }
+        else
+        {
+            // Print top item without removing
+            Console.WriteLine($"Top item: {aStack.Peek()}");
         }
 
-        while (tempStack.Count > 0)
+        // Print whether stack contains the search
+        bool contains = aStack.Contains(search);
+        Console.WriteLine($"Stack contains \"{search}\": {contains}");
+
+        // Only if stack contains search, we must remove up to and including search
+        if (contains)
         {
-            stack.Push(tempStack.Pop());
+            // Convert stack to array (top element first)
+            string[] arr = aStack.ToArray();
+
+            // Find index of search in array
+            int index = Array.IndexOf(arr, search);
+
+            // Rebuild the stack by skipping elements up to and including search
+            Stack<string> newStack = new Stack<string>();
+            for (int i = arr.Length - 1; i > index; i--)
+            {
+                newStack.Push(arr[i]);
+            }
+
+            aStack = newStack; // Replace the old stack
         }
 
-        Console.WriteLine($"Found '{search1}': {foundSearch1}");
-        Console.WriteLine($"Found '{search2}': {foundSearch2}");
+        // Add the new item
+        aStack.Push(newItem);
+
+        return aStack;
     }
-}   
+}
