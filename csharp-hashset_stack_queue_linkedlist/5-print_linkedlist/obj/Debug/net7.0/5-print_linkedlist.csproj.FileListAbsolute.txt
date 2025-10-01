@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\net7.0\5-print_linkedlist.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\net7.0\5-print_linkedlist.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\net7.0\5-print_linkedlist.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\net7.0\5-print_linkedlist.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\bin\Debug\net7.0\5-print_linkedlist.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\net7.0\5-print_linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\net7.0\5-print_linkedlist.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\net7.0\5-print_linkedlist.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\net7.0\5-print_linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\net7.0\5-print_linkedlist.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\net7.0\refint\5-print_linkedlist.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\net7.0\5-print_linkedlist.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\net7.0\5-print_linkedlist.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\5-print_linkedlist\obj\Debug\net7.0\ref\5-print_linkedlist.dll
