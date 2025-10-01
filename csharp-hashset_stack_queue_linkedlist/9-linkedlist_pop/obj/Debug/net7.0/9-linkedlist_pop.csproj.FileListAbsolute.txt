@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\Debug\net7.0\9-linkedlist_pop.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\Debug\net7.0\9-linkedlist_pop.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\Debug\net7.0\9-linkedlist_pop.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\Debug\net7.0\9-linkedlist_pop.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\bin\Debug\net7.0\9-linkedlist_pop.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\refint\9-linkedlist_pop.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\9-linkedlist_pop.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-hashset_stack_queue_linkedlist\9-linkedlist_pop\obj\Debug\net7.0\ref\9-linkedlist_pop.dll

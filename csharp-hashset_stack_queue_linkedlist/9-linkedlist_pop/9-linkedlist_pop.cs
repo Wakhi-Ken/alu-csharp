@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using System.Collections.Generic;
+
+class LList
+{
+    public static int Pop(LinkedList<int> myLList)
+    {
+        if (myLList.Count == 0)
+            return 0;
+
+        int headValue = myLList.First.Value;
+        myLList.RemoveFirst();
+        return headValue;
+    }
+}
