@@ -12,37 +12,38 @@ public class MyStack
         Console.WriteLine($"Number of items: {aStack.Count}");
 
         // Top item
-        string? topItem = aStack.Count > 0 ? aStack.Peek() : null;
-        Console.WriteLine(topItem != null ? $"Top item: {topItem}" : "Stack is empty");
+        if (aStack.Count > 0)
+            Console.WriteLine($"Top item: {aStack.Peek()}");
+        else
+            Console.WriteLine("Stack is empty");
 
         // Check if contains search item
         bool containsSearch = aStack.Contains(search);
         Console.WriteLine($"Stack contains \"{search}\": {containsSearch}");
 
-        // Remove items up to and including search
+        // Remove items up to and including search without using Pop in a loop
         if (containsSearch)
         {
-            Stack<string> tempStack = new Stack<string>();
-            bool found = false;
+            // Enumerate items from top to bottom without mutating the original stack
+            List<string> itemsTopToBottom = new List<string>(aStack);
+            int idx = itemsTopToBottom.IndexOf(search);
 
-            while (aStack.Count > 0)
+            // Keep only items that are below the searched element
+            List<string> keep = new List<string>();
+            if (idx >= 0)
             {
-                string item = aStack.Pop();
-                if (item == search)
-                {
-                    found = true;
-                    break;
-                }
-                else
-                {
-                    tempStack.Push(item);
-                }
+                for (int i = idx + 1; i < itemsTopToBottom.Count; i++)
+                    keep.Add(itemsTopToBottom[i]);
+            }
+            else
+            {
+                keep = itemsTopToBottom;
             }
 
-            while (tempStack.Count > 0)
-            {
-                aStack.Push(tempStack.Pop());
-            }
+            // Rebuild the original stack with the kept items
+            aStack.Clear();
+            for (int i = keep.Count - 1; i >= 0; i--)
+                aStack.Push(keep[i]);
         }
 
         // Add new item
@@ -51,3 +52,5 @@ public class MyStack
         return aStack;
     }
 }
+
+
