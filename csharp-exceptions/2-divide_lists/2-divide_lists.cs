@@ -9,23 +9,21 @@ public class List
 
         for (int i = 0; i < listLength; i++)
         {
-            int result = 0;
-
             try
             {
-                result = list1[i] / list2[i];
+                int result = list1[i] / list2[i];
+                newList.Add(result);
             }
             catch (DivideByZeroException)
             {
                 Console.WriteLine("Cannot divide by zero");
+                newList.Add(0);
             }
             catch (ArgumentOutOfRangeException)
             {
                 Console.WriteLine("Out of range");
-            }
-            finally
-            {
-                newList.Add(result);
+                // stop further processing — don’t add anything more
+                break;
             }
         }
 
