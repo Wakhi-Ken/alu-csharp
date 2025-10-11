@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\refint\2-divide_lists.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\ref\2-divide_lists.dll
