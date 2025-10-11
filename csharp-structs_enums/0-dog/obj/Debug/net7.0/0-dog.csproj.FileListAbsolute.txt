@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-structs_enums\0-dog\bin\Debug\net7.0\0-dog.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-structs_enums\0-dog\bin\Debug\net7.0\0-dog.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-structs_enums\0-dog\bin\Debug\net7.0\0-dog.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-structs_enums\0-dog\bin\Debug\net7.0\0-dog.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-structs_enums\0-dog\bin\Debug\net7.0\0-dog.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\refint\0-dog.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\0-dog.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-structs_enums\0-dog\obj\Debug\net7.0\ref\0-dog.dll
