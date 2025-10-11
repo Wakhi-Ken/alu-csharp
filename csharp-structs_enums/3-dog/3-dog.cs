@@ -1,11 +1,7 @@
-﻿using System;
-
-public enum Rating
+﻿public enum Rating
 {
-    Poor,
-    Average,
     Good,
-    VeryGood,
+    Great,
     Excellent
 }
 
