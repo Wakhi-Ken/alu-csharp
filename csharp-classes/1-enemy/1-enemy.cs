@@ -1,2 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace Enemies
+{
+    public class Zombie
+    {
+        
+        public int health;
+
+        
+        public Zombie()
+        {
+            health = 0;
+        }
+    }
+}
