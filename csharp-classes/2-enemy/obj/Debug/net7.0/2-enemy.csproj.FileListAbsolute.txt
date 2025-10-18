@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-classes\2-enemy\bin\Debug\net7.0\2-enemy.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-classes\2-enemy\bin\Debug\net7.0\2-enemy.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-classes\2-enemy\bin\Debug\net7.0\2-enemy.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-classes\2-enemy\bin\Debug\net7.0\2-enemy.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-classes\2-enemy\bin\Debug\net7.0\2-enemy.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\2-enemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\2-enemy.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\2-enemy.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\2-enemy.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\2-enemy.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\refint\2-enemy.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\2-enemy.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\2-enemy.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-classes\2-enemy\obj\Debug\net7.0\ref\2-enemy.dll
