@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.csproj.CoreCompileInputs.cache

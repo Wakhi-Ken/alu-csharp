@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\1-instance\bin\Debug\net7.0\1-instance.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\1-instance\bin\Debug\net7.0\1-instance.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\1-instance\bin\Debug\net7.0\1-instance.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\1-instance\bin\Debug\net7.0\1-instance.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\1-instance\bin\Debug\net7.0\1-instance.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\refint\1-instance.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\1-instance.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\1-instance\obj\Debug\net7.0\ref\1-instance.dll

@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\4-inherit\bin\Debug\net7.0\4-inherit.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\4-inherit\bin\Debug\net7.0\4-inherit.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\4-inherit\bin\Debug\net7.0\4-inherit.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\4-inherit\bin\Debug\net7.0\4-inherit.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\4-inherit\bin\Debug\net7.0\4-inherit.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\refint\4-inherit.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\4-inherit.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-inheritance\4-inherit\obj\Debug\net7.0\ref\4-inherit.dll
