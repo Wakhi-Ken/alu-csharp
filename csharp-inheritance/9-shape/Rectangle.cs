@@ -1,29 +1,33 @@
 ﻿using System;
 
-public class Rectangle : Shape
+/// <summary>
+/// Represents a rectangle shape.
+/// </summary>
+class Rectangle : Shape
 {
-    private int width;
-    private int height;
+    /// <summary>
+    /// Gets or sets the width of the rectangle.
+    /// </summary>
+    public int Width { get; set; }
 
-    public int Width
+    /// <summary>
+    /// Gets or sets the height of the rectangle.
+    /// </summary>
+    public int Height { get; set; }
+
+    /// <summary>
+    /// Calculates the area of the rectangle.
+    /// </summary>
+    public override int Area()
     {
-        get { return width; }
-        set
-        {
-            if (value < 0)
-                throw new ArgumentException("Width must be greater than or equal to 0.");
-            width = value;
-        }
+        return Width * Height;
     }
 
-    public int Height
+    /// <summary>
+    /// Returns a string representation of the rectangle.
+    /// </summary>
+    public override string ToString()
     {
-        get { return height; }
-        set
-        {
-            if (value < 0)
-                throw new ArgumentException("Height must be greater than or equal to 0.");
-            height = value;
-        }
+        return $"[Rectangle] {Width} / {Height}";
     }
 }
