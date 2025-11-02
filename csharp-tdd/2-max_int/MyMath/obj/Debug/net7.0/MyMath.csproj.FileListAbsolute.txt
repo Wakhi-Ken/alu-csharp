@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath\bin\Debug\net7.0\MyMath.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath\bin\Debug\net7.0\MyMath.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath\bin\Debug\net7.0\MyMath.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net7.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net7.0\MyMath.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net7.0\MyMath.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net7.0\MyMath.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net7.0\MyMath.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net7.0\refint\MyMath.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net7.0\MyMath.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath\obj\Debug\net7.0\ref\MyMath.dll
