@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyMath</name>
+    </assembly>
+    <members>
+        <member name="T:MyMath.Operations">
+            <summary>
+            Provides basic mathematical operations.
+            </summary>
+        </member>
+        <member name="M:MyMath.Operations.Add(System.Int32,System.Int32)">
+            <summary>
+            Adds two integers and returns the sum.
+            </summary>
+            <param name="a">First integer</param>
+            <param name="b">Second integer</param>
+            <returns>The sum of a and b.</returns>
+        </member>
+    </members>
+</doc>
