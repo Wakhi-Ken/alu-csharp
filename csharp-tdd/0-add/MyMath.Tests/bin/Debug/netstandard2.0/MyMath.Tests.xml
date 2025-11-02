@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyMath.Tests</name>
+    </assembly>
+    <members>
+        <member name="T:MyMath.Tests.OperationsTests">
+            <summary>
+            Contains unit tests for the <see cref="T:MyMath.Operations"/> class.
+            </summary>
+        </member>
+        <member name="M:MyMath.Tests.OperationsTests.Add_PositiveIntegers_ReturnsSum">
+            <summary>
+            Tests that adding two positive integers returns the correct sum.
+            </summary>
+        </member>
+        <member name="M:MyMath.Tests.OperationsTests.Add_NegativeIntegers_ReturnsSum">
+            <summary>
+            Tests that adding two negative integers returns the correct sum.
+            </summary>
+        </member>
+        <member name="M:MyMath.Tests.OperationsTests.Add_PositiveAndNegative_ReturnsSum">
+            <summary>
+            Tests that adding a positive and a negative integer returns the correct sum.
+            </summary>
+        </member>
+        <member name="M:MyMath.Tests.OperationsTests.Add_NumberAndZero_ReturnsSameNumber">
+            <summary>
+            Tests that adding zero to a number returns the same number.
+            </summary>
+        </member>
+        <member name="M:MyMath.Tests.OperationsTests.Add_ZeroAndZero_ReturnsZero">
+            <summary>
+            Tests that adding zero to zero returns zero.
+            </summary>
+        </member>
+    </members>
+</doc>

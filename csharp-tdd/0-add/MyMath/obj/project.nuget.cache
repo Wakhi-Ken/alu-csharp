@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "X8xHk13yURP2V2HImTNH29cm+G9F3lBdxlx2Yo+fXZRm5RZwGD+sRvPTGOFdmDJeC1rl1DwQkWBFQPfB3ZPYfQ==",
+  "dgSpecHash": "UeLf5mp6KFXt51aKMOE2xFvUYfxWjz5q7wpON+H0ds3O8HF1AltO90BUnprrOanHUlYbFw+yFWYnV/UF3hRvjQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\MyMath.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
