@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text\bin\Debug\net7.0\Text.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text\bin\Debug\net7.0\Text.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text\bin\Debug\net7.0\Text.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\net7.0\Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\net7.0\Text.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\net7.0\Text.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\net7.0\Text.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\net7.0\Text.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\net7.0\refint\Text.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\net7.0\Text.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text\obj\Debug\net7.0\ref\Text.dll
