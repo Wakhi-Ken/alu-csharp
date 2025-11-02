@@ -1,4 +1,4 @@
-﻿using System;
+﻿﻿using System;
 
 public class Rectangle : Shape
 {
@@ -7,22 +7,20 @@ public class Rectangle : Shape
 
     public int Width
     {
-        get { return width; }
+        get => width;
         set
         {
-            if (value < 0)
-                throw new ArgumentException("Width must be greater than or equal to 0");
+            if (value < 0) throw new ArgumentException("Width must be greater than or equal to 0");
             width = value;
         }
     }
 
     public int Height
     {
-        get { return height; }
+        get => height;
         set
         {
-            if (value < 0)
-                throw new ArgumentException("Height must be greater than or equal to 0");
+            if (value < 0) throw new ArgumentException("Height must be greater than or equal to 0");
             height = value;
         }
     }
