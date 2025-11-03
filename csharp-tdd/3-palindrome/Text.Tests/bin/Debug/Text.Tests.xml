@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text.Tests</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Tests.StrTests">
+            <summary>
+            Tests for the <see cref="T:Text.Str"/> class.
+            </summary>
+        </member>
+    </members>
+</doc>

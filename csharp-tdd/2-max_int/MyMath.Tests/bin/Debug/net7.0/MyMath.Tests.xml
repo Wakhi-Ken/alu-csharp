@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyMath.Tests</name>
+    </assembly>
+    <members>
+        <member name="T:MyMath.Tests.OperationsTests">
+            <summary>
+            Tests for <see cref="T:MyMath.Operations"/> class.
+            </summary>
+        </member>
+        <member name="M:MyMath.Tests.OperationsTests.Max_PositiveNumbers_ReturnsMax">
+            <summary>
+            Returns the maximum integer in a list of positive numbers.
+            </summary>
+        </member>
+        <member name="M:MyMath.Tests.OperationsTests.Max_NegativeNumbers_ReturnsMax">
+            <summary>
+            Returns the maximum integer in a list containing negative numbers.
+            </summary>
+        </member>
+        <member name="M:MyMath.Tests.OperationsTests.Max_EmptyList_ReturnsZero">
+            <summary>
+            Returns 0 if the list is empty.
+            </summary>
+        </member>
+        <member name="M:MyMath.Tests.OperationsTests.Max_MixedNumbers_ReturnsMax">
+            <summary>
+            Returns the maximum integer in a list with mixed positive and negative numbers.
+            </summary>
+        </member>
+    </members>
+</doc>

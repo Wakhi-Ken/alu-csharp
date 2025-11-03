@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary>
+            Provides string-related utilities.
+            </summary>
+        </member>
+        <member name="M:Text.Str.CamelCase(System.String)">
+            <summary>
+            Counts the number of words in a camelCase string.
+            Each word begins with a capital letter except the first word.
+            </summary>
+            <param name="s">Input string in camelCase</param>
+            <returns>Number of words in the string</returns>
+        </member>
+    </members>
+</doc>

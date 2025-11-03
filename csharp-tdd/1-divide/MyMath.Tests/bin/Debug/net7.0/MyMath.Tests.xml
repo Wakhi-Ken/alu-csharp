@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyMath.Tests</name>
+    </assembly>
+    <members>
+        <member name="T:MyMath.Tests.MatrixTests">
+            <summary>
+            Contains unit tests for the <see cref="T:MyMath.Matrix"/> class.
+            </summary>
+        </member>
+        <member name="M:MyMath.Tests.MatrixTests.Divide_PositiveMatrix_ReturnsCorrectResult">
+            <summary>
+            Tests that dividing a matrix with positive integers
+            by a positive number returns the expected result.
+            </summary>
+        </member>
+        <member name="M:MyMath.Tests.MatrixTests.Divide_ByZero_PrintsMessageAndReturnsNull">
+            <summary>
+            Tests that dividing a matrix by zero prints
+            a message and returns <c>null</c>.
+            </summary>
+        </member>
+        <member name="M:MyMath.Tests.MatrixTests.Divide_NullMatrix_ReturnsNull">
+            <summary>
+            Tests that passing a <c>null</c> matrix returns <c>null</c>.
+            </summary>
+        </member>
+    </members>
+</doc>

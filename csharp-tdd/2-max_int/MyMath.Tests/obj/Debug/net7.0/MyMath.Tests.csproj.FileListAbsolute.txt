@@ -100,3 +100,5 @@ C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-ma
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath.Tests\obj\Debug\net7.0\MyMath.Tests.pdb
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath.Tests\obj\Debug\net7.0\MyMath.Tests.genruntimeconfig.cache
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath.Tests\obj\Debug\net7.0\ref\MyMath.Tests.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath.Tests\bin\Debug\net7.0\MyMath.Tests.xml
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\2-max_int\MyMath.Tests\bin\Debug\net7.0\MyMath.xml

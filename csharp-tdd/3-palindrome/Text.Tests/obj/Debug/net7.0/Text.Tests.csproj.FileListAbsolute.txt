@@ -100,3 +100,5 @@ C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-pa
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text.Tests\obj\Debug\net7.0\Text.Tests.pdb
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text.Tests\obj\Debug\net7.0\Text.Tests.genruntimeconfig.cache
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text.Tests\obj\Debug\net7.0\ref\Text.Tests.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text.Tests\bin\Debug\net7.0\Text.Tests.xml
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\3-palindrome\Text.Tests\bin\Debug\net7.0\Text.xml

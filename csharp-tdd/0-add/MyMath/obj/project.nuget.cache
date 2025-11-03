@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NA8cEXUUr/m0vfvfFC6dg3fxyJXWXqzyrbPbI39oJNXivm9jGHO9XlyAi4Wb2IJrGw0pVFGVzVdJc2/oo4yxbg==",
+  "dgSpecHash": "X8xHk13yURP2V2HImTNH29cm+G9F3lBdxlx2Yo+fXZRm5RZwGD+sRvPTGOFdmDJeC1rl1DwQkWBFQPfB3ZPYfQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-tdd\\0-add\\MyMath\\MyMath.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

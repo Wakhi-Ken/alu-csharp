@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary>
+            Provides string-related utilities.
+            </summary>
+        </member>
+        <member name="M:Text.Str.UniqueChar(System.String)">
+            <summary>
+            Returns the index of the first non-repeating character in a string.
+            </summary>
+            <param name="s">Input string (lowercase letters only)</param>
+            <returns>Index of first non-repeating character, or -1 if none</returns>
+        </member>
+    </members>
+</doc>

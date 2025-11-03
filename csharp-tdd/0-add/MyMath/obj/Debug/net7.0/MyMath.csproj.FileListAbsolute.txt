@@ -9,3 +9,4 @@ C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\0-ad
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\net7.0\refint\MyMath.dll
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\net7.0\MyMath.pdb
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\0-add\MyMath\obj\Debug\net7.0\ref\MyMath.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\0-add\MyMath\bin\Debug\net7.0\MyMath.xml

@@ -9,3 +9,4 @@ C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\5-ca
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\net7.0\refint\Text.dll
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\net7.0\Text.pdb
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\5-camelcase\Text\obj\Debug\net7.0\ref\Text.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-tdd\5-camelcase\Text\bin\Debug\net7.0\Text.xml
