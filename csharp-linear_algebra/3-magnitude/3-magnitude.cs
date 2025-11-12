@@ -1,18 +1,19 @@
 ﻿using System;
 
-class Vector2D
+public class VectorMath
 {
-    public double X { get; }
-    public double Y { get; }
-
-    public Vector2D(double x, double y)
+    public static double Magnitude(double[] vector)
     {
-        X = x;
-        Y = y;
-    }
+        if (vector == null || (vector.Length != 2 && vector.Length != 3))
+            return -1;
 
-    public double Magnitude()
-    {
-        return Math.Sqrt(X * X + Y * Y);
+        double sumSquares = 0;
+        foreach (double component in vector)
+        {
+            sumSquares += component * component;
+        }
+
+        double length = Math.Sqrt(sumSquares);
+        return Math.Round(length, 2);
     }
 }
