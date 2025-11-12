@@ -21,7 +21,6 @@ public class MatrixMath
         int rows = matrix.GetLength(0);
         int cols = matrix.GetLength(1);
 
-        // Only square matrices allowed
         if (rows != cols)
             return new double[,] { { -1 } };
 
