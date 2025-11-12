@@ -1,0 +1,4 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\3-magnitude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\3-magnitude.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\3-magnitude.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-linear_algebra\3-magnitude\obj\Debug\net7.0\3-magnitude.csproj.CoreCompileInputs.cache

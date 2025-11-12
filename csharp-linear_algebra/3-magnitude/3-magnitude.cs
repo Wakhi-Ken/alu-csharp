@@ -1,2 +1,18 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+class Vector2D
+{
+    public double X { get; }
+    public double Y { get; }
+
+    public Vector2D(double x, double y)
+    {
+        X = x;
+        Y = y;
+    }
+
+    public double Magnitude()
+    {
+        return Math.Sqrt(X * X + Y * Y);
+    }
+}
