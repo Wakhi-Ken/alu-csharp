@@ -3,31 +3,39 @@
 public class MatrixMath
 {
     /// <summary>
-    /// Rotates a 2x2 matrix by a given angle in radians.
-    /// Each column is treated as a vector (x, y) and rotated.
+    /// Rotates a square 2D matrix by a given angle in radians.
+    /// Each element is treated as a coordinate (x, y) relative to origin.
     /// </summary>
-    /// <param name="matrix">The 2x2 matrix to rotate.</param>
+    /// <param name="matrix">The square 2D matrix to rotate.</param>
     /// <param name="angle">The rotation angle in radians.</param>
     /// <returns>
-    /// The resulting rotated 2x2 matrix.
-    /// If the matrix is not 2x2, returns a matrix containing -1.
+    /// The rotated matrix.
+    /// If the matrix is not square, returns a matrix containing -1.
     /// </returns>
     public static double[,] Rotate2D(double[,] matrix, double angle)
     {
-        if (matrix == null || matrix.GetLength(0) != 2 || matrix.GetLength(1) != 2)
+        if (matrix == null)
+            return new double[,] { { -1 } };
+
+        int rows = matrix.GetLength(0);
+        int cols = matrix.GetLength(1);
+
+        if (rows != cols)
             return new double[,] { { -1 } };
 
         double cos = Math.Cos(angle);
         double sin = Math.Sin(angle);
+        double[,] result = new double[rows, cols];
 
-        double[,] result = new double[2, 2];
-
-        // Rotate each vector (column)
-        result[0, 0] = Math.Round(matrix[0, 0] * cos - matrix[1, 0] * sin, 2);
-        result[1, 0] = Math.Round(matrix[0, 0] * sin + matrix[1, 0] * cos, 2);
-
-        result[0, 1] = Math.Round(matrix[0, 1] * cos - matrix[1, 1] * sin, 2);
-        result[1, 1] = Math.Round(matrix[0, 1] * sin + matrix[1, 1] * cos, 2);
+        for (int i = 0; i < rows; i++)
+        {
+            for (int j = 0; j < cols; j++)
+            {
+                double x = matrix[i, j];   // treat as x-coordinate
+                double y = matrix[j, i];   // treat as y-coordinate (symmetric)
+                result[i, j] = Math.Round(x * cos - y * sin, 2);
+            }
+        }
 
         return result;
     }
