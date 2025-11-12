@@ -34,12 +34,12 @@ public class MatrixMath
             {
                 if (direction == 'x')
                 {
-                    // Shear in X: newValue = original + factor * rowIndex
+                    // Shear in X direction: newValue = original + factor * rowIndex
                     result[i, j] = matrix[i, j] + factor * i;
                 }
                 else // direction == 'y'
                 {
-                    // Shear in Y: newValue = original + factor * colIndex
+                    // Shear in Y direction: newValue = original + factor * colIndex
                     result[i, j] = matrix[i, j] + factor * j;
                 }
             }
