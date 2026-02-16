@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\bin\Debug\net9.0\2-dequeue.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\bin\Debug\net9.0\2-dequeue.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\bin\Debug\net9.0\2-dequeue.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\bin\Debug\net9.0\2-dequeue.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\bin\Debug\net9.0\2-dequeue.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net9.0\2-dequeue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net9.0\2-dequeue.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net9.0\2-dequeue.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net9.0\2-dequeue.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net9.0\2-dequeue.sourcelink.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net9.0\2-dequeue.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net9.0\refint\2-dequeue.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net9.0\2-dequeue.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net9.0\2-dequeue.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net9.0\ref\2-dequeue.dll

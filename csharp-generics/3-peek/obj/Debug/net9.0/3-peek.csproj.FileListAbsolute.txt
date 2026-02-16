@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\bin\Debug\net9.0\3-peek.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\bin\Debug\net9.0\3-peek.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\bin\Debug\net9.0\3-peek.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\bin\Debug\net9.0\3-peek.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\bin\Debug\net9.0\3-peek.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\obj\Debug\net9.0\3-peek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\obj\Debug\net9.0\3-peek.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\obj\Debug\net9.0\3-peek.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\obj\Debug\net9.0\3-peek.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\obj\Debug\net9.0\3-peek.sourcelink.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\obj\Debug\net9.0\3-peek.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\obj\Debug\net9.0\refint\3-peek.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\obj\Debug\net9.0\3-peek.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\obj\Debug\net9.0\3-peek.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\3-peek\obj\Debug\net9.0\ref\3-peek.dll

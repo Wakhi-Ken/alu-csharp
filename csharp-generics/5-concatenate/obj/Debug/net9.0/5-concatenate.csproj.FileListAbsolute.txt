@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\bin\Debug\net9.0\5-concatenate.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\bin\Debug\net9.0\5-concatenate.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\bin\Debug\net9.0\5-concatenate.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\bin\Debug\net9.0\5-concatenate.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\bin\Debug\net9.0\5-concatenate.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\obj\Debug\net9.0\5-concatenate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\obj\Debug\net9.0\5-concatenate.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\obj\Debug\net9.0\5-concatenate.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\obj\Debug\net9.0\5-concatenate.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\obj\Debug\net9.0\5-concatenate.sourcelink.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\obj\Debug\net9.0\5-concatenate.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\obj\Debug\net9.0\refint\5-concatenate.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\obj\Debug\net9.0\5-concatenate.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\obj\Debug\net9.0\5-concatenate.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\5-concatenate\obj\Debug\net9.0\ref\5-concatenate.dll
