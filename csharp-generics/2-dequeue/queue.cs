@@ -2,7 +2,6 @@
 
 public class Queue<T>
 {
-    // Node class
     public class Node
     {
         public T value;
@@ -17,14 +16,7 @@ public class Queue<T>
 
     public Node head;
     public Node tail;
-    private int count;
-
-    public Queue()
-    {
-        head = null;
-        tail = null;
-        count = 0;
-    }
+    public int count;
 
     public Type CheckType()
     {
@@ -61,6 +53,7 @@ public class Queue<T>
         head = head.next;
         count--;
 
+        // If the queue becomes empty after dequeue, update tail to null
         if (count == 0)
         {
             tail = null;
