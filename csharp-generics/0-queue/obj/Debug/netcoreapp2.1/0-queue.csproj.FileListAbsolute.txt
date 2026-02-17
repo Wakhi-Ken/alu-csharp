@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\0-queue\obj\Debug\netcoreapp2.1\0-queue.sourcelink.json
