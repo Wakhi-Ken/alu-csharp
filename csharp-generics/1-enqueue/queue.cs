@@ -52,7 +52,7 @@ public class Queue<T>
         return count;
     }
 
-    // Optional: returns the type stored in the queue
+    
     public Type CheckType()
     {
         return typeof(T);
