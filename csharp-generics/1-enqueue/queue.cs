@@ -4,18 +4,19 @@ public class Queue<T>
 {
     public class Node
     {
-        public T value = default(T);
-        public Node next = null;
+        public T value;
+        public Node next;
 
         public Node(T value)
         {
             this.value = value;
+            this.next = null;
         }
     }
 
-    public Node head = null;
-    public Node tail = null;
-    public int count = 0;
+    public Node head;
+    public Node tail;
+    public int count;
 
     public Type CheckType()
     {
