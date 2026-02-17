@@ -5,7 +5,7 @@ public class Queue<T>
     public class Node
     {
         public T value;
-        public Node next;
+        public Node? next;
 
         public Node(T value)
         {
@@ -14,8 +14,8 @@ public class Queue<T>
         }
     }
 
-    public Node head;
-    public Node tail;
+    public Node? head;
+    public Node? tail;
     public int count;
 
     public Type CheckType()
@@ -34,7 +34,7 @@ public class Queue<T>
         }
         else
         {
-            tail.next = newNode;
+            tail!.next = newNode;
             tail = newNode;
         }
 
@@ -46,14 +46,13 @@ public class Queue<T>
         if (count == 0)
         {
             Console.WriteLine("Queue is empty");
-            return default(T);
+            return default(T)!;
         }
 
-        T value = head.value;
+        T value = head!.value;
         head = head.next;
         count--;
 
-        // If the queue becomes empty after dequeue, update tail to null
         if (count == 0)
         {
             tail = null;
