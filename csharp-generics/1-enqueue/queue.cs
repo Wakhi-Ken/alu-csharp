@@ -1,23 +1,58 @@
 ﻿using System;
 
-public class Program
+public class Queue<T>
 {
-    public static void Main()
+    // Node class inside Queue<T>
+    public class Node
     {
-        Queue<int> q = new Queue<int>();
-        
-        q.Enqueue(42);
-        Console.WriteLine("Number of nodes in queue: " + q.Count());
+        public T value;      // value can be any type
+        public Node next;    // next node in the queue
 
-        q.Enqueue(99);
-        Console.WriteLine("Number of nodes in queue: " + q.Count());
-        
-        // Example of a large queue
-        Queue<int> bigQ = new Queue<int>();
-        for (int i = 0; i < 3207716; i++)
+        // Constructor to set the value
+        public Node(T value)
         {
-            bigQ.Enqueue(i);
+            this.value = value;
+            this.next = null; // initially points to nothing
         }
-        Console.WriteLine("Number of nodes in queue: " + bigQ.Count());
+    }
+
+    // Queue properties
+    public Node head;  // first node in the queue
+    public Node tail;  // last node in the queue
+    private int count; // number of nodes in the queue
+
+    // Constructor for empty queue
+    public Queue()
+    {
+        head = null;
+        tail = null;
+        count = 0;
+    }
+
+    // Enqueue method: adds a new node to the end
+    public void Enqueue(T value)
+    {
+        Node newNode = new Node(value);
+
+        if (count == 0)
+        {
+            // If queue is empty, head and tail are the new node
+            head = newNode;
+            tail = newNode;
+        }
+        else
+        {
+            // Add new node at the end and update tail
+            tail.next = newNode;
+            tail = newNode;
+        }
+
+        count++; // increment count
+    }
+
+    // Returns the number of nodes in the queue
+    public int Count()
+    {
+        return count;
     }
 }
