@@ -2,32 +2,26 @@
 
 public class Queue<T>
 {
-    // Node class inside Queue<T>
     public class Node
     {
-        public T value;      // value can be any type
-        public Node next;    // next node in the queue
+        public T value = default(T);
+        public Node next = null;
 
         public Node(T value)
         {
             this.value = value;
-            this.next = null;
         }
     }
 
-    // Queue properties
-    public Node head;
-    public Node tail;
-    private int count;
+    public Node head = null;
+    public Node tail = null;
+    public int count = 0;
 
-    public Queue()
+    public Type CheckType()
     {
-        head = null;
-        tail = null;
-        count = 0;
+        return typeof(T);
     }
 
-    // Adds a new node to the end of the queue
     public void Enqueue(T value)
     {
         Node newNode = new Node(value);
@@ -46,15 +40,8 @@ public class Queue<T>
         count++;
     }
 
-    // Returns the number of nodes
     public int Count()
     {
         return count;
-    }
-
-    
-    public Type CheckType()
-    {
-        return typeof(T);
     }
 }
