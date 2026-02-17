@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net7.0\1-enqueue.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net7.0\1-enqueue.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net7.0\1-enqueue.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net7.0\1-enqueue.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\bin\Debug\net7.0\1-enqueue.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.sourcelink.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\refint\1-enqueue.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\1-enqueue.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\1-enqueue\obj\Debug\net7.0\ref\1-enqueue.dll
