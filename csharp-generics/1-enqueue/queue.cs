@@ -1,56 +1,23 @@
 ﻿using System;
 
-public class Queue<T>
+public class Program
 {
-    // Node class
-    public class Node
+    public static void Main()
     {
-        public T value;
-        public Node next;
+        Queue<int> q = new Queue<int>();
+        
+        q.Enqueue(42);
+        Console.WriteLine("Number of nodes in queue: " + q.Count());
 
-        public Node(T value)
+        q.Enqueue(99);
+        Console.WriteLine("Number of nodes in queue: " + q.Count());
+        
+        // Example of a large queue
+        Queue<int> bigQ = new Queue<int>();
+        for (int i = 0; i < 3207716; i++)
         {
-            this.value = value;
-            this.next = null;
+            bigQ.Enqueue(i);
         }
-    }
-
-    public Node head;
-    public Node tail;
-    private int count;
-
-    public Queue()
-    {
-        head = null;
-        tail = null;
-        count = 0;
-    }
-
-    public void Enqueue(T value)
-    {
-        Node newNode = new Node(value);
-
-        if (count == 0)
-        {
-            head = newNode;
-            tail = newNode;
-        }
-        else
-        {
-            tail.next = newNode;
-            tail = newNode;
-        }
-
-        count++;
-    }
-
-    public int Count()
-    {
-        return count;
-    }
-
-    public Type CheckType()
-    {
-        return typeof(T);
+        Console.WriteLine("Number of nodes in queue: " + bigQ.Count());
     }
 }
