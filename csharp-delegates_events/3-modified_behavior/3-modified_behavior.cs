@@ -52,25 +52,24 @@ public class Player
 
     // Take damage
     public void TakeDamage(float damage)
-    {
-        if (damage < 0f)
-            damage = 0f;
+{
+    if (damage < 0f)
+        damage = 0f;
 
-        Console.WriteLine($"{name} takes {damage} damage!");
-        float newHp = hp - damage;
-        ValidateHP(newHp);
-    }
+    Console.WriteLine($"{name} takes {damage:0.0} damage!");
+    float newHp = hp - damage;
+    ValidateHP(newHp);
+}
 
-    // Heal damage
-    public void HealDamage(float heal)
-    {
-        if (heal < 0f)
-            heal = 0f;
+public void HealDamage(float heal)
+{
+    if (heal < 0f)
+        heal = 0f;
 
-        Console.WriteLine($"{name} heals {heal} HP!");
-        float newHp = hp + heal;
-        ValidateHP(newHp);
-    }
+    Console.WriteLine($"{name} heals {heal:0.0} HP!");
+    float newHp = hp + heal;
+    ValidateHP(newHp);
+}
 
     // ApplyModifier method
     public float ApplyModifier(float baseValue, Modifier modifier)
