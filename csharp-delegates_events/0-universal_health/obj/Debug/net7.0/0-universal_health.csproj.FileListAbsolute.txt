@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\bin\Debug\net7.0\0-universal_health.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\bin\Debug\net7.0\0-universal_health.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\bin\Debug\net7.0\0-universal_health.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\bin\Debug\net7.0\0-universal_health.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\bin\Debug\net7.0\0-universal_health.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\0-universal_health.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\0-universal_health.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\0-universal_health.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\0-universal_health.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\0-universal_health.sourcelink.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\0-universal_health.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\refint\0-universal_health.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\0-universal_health.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\0-universal_health.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\0-universal_health\obj\Debug\net7.0\ref\0-universal_health.dll
