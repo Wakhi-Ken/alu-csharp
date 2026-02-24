@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3-modified_behavior")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6fb169173731930bce3c968cc6411469a5e0eda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c3c7148bc17efddfff5a43d562cb3571eaead67")]
 [assembly: System.Reflection.AssemblyProductAttribute("3-modified_behavior")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3-modified_behavior")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
