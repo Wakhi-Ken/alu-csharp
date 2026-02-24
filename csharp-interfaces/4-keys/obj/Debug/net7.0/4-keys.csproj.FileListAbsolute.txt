@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\obj\Debug\net7.0\4-keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\obj\Debug\net7.0\4-keys.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\obj\Debug\net7.0\4-keys.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\obj\Debug\net7.0\4-keys.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\obj\Debug\net7.0\4-keys.sourcelink.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\bin\Debug\net7.0\4-keys.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\bin\Debug\net7.0\4-keys.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\bin\Debug\net7.0\4-keys.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\bin\Debug\net7.0\4-keys.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\bin\Debug\net7.0\4-keys.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\obj\Debug\net7.0\4-keys.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\obj\Debug\net7.0\refint\4-keys.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\obj\Debug\net7.0\4-keys.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\obj\Debug\net7.0\4-keys.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\4-keys\obj\Debug\net7.0\ref\4-keys.dll
