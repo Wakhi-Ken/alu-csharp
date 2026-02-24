@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\1-user_interface\obj\Debug\net9.0\1-user_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\1-user_interface\obj\Debug\net9.0\1-user_interface.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\1-user_interface\obj\Debug\net9.0\1-user_interface.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\1-user_interface\obj\Debug\net9.0\1-user_interface.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\1-user_interface\obj\Debug\net9.0\1-user_interface.sourcelink.json
