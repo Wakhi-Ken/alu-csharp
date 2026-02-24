@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\bin\Debug\net7.0\3-decorations.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\bin\Debug\net7.0\3-decorations.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\bin\Debug\net7.0\3-decorations.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\bin\Debug\net7.0\3-decorations.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\bin\Debug\net7.0\3-decorations.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\obj\Debug\net7.0\3-decorations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\obj\Debug\net7.0\3-decorations.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\obj\Debug\net7.0\3-decorations.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\obj\Debug\net7.0\3-decorations.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\obj\Debug\net7.0\3-decorations.sourcelink.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\obj\Debug\net7.0\3-decorations.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\obj\Debug\net7.0\refint\3-decorations.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\obj\Debug\net7.0\3-decorations.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\obj\Debug\net7.0\3-decorations.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\3-decorations\obj\Debug\net7.0\ref\3-decorations.dll
