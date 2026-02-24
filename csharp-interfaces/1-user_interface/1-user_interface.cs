@@ -19,27 +19,21 @@ public interface ICollectable
 
 public class TestObject : Base, IInteractive, IBreakable, ICollectable
 {
-    // IBreakable property
     public int durability { get; set; }
-
-    // ICollectable property
     public bool isCollected { get; set; }
 
-    // IInteractive method
     public void Interact()
     {
-        // Not implemented
+        // intentionally empty
     }
 
-    // IBreakable method
     public void Break()
     {
-        // Not implemented
+        // intentionally empty
     }
 
-    // ICollectable method
     public void Collect()
     {
-        // Not implemented
+        // intentionally empty
     }
 }
