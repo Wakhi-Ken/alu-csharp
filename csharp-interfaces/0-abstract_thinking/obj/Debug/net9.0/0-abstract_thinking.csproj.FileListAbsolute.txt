@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\net9.0\0-abstract_thinking.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\net9.0\0-abstract_thinking.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\net9.0\0-abstract_thinking.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\net9.0\0-abstract_thinking.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\bin\Debug\net9.0\0-abstract_thinking.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\net9.0\0-abstract_thinking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\net9.0\0-abstract_thinking.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\net9.0\0-abstract_thinking.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\net9.0\0-abstract_thinking.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\net9.0\0-abstract_thinking.sourcelink.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\net9.0\0-abstract_thinking.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\net9.0\refint\0-abstract_thinking.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\net9.0\0-abstract_thinking.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\net9.0\0-abstract_thinking.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\0-abstract_thinking\obj\Debug\net9.0\ref\0-abstract_thinking.dll
