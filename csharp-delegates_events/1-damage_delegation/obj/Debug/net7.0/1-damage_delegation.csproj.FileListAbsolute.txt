@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\bin\Debug\net7.0\1-damage_delegation.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\bin\Debug\net7.0\1-damage_delegation.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\bin\Debug\net7.0\1-damage_delegation.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\bin\Debug\net7.0\1-damage_delegation.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\bin\Debug\net7.0\1-damage_delegation.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\obj\Debug\net7.0\1-damage_delegation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\obj\Debug\net7.0\1-damage_delegation.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\obj\Debug\net7.0\1-damage_delegation.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\obj\Debug\net7.0\1-damage_delegation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\obj\Debug\net7.0\1-damage_delegation.sourcelink.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\obj\Debug\net7.0\1-damage_delegation.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\obj\Debug\net7.0\refint\1-damage_delegation.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\obj\Debug\net7.0\1-damage_delegation.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\obj\Debug\net7.0\1-damage_delegation.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-delegates_events\1-damage_delegation\obj\Debug\net7.0\ref\1-damage_delegation.dll
