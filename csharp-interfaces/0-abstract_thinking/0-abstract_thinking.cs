@@ -2,7 +2,8 @@
 
 public abstract class Base
 {
-    public string name { get; set; }
+    // Initialize to avoid CS8618 warning
+    public string name { get; set; } = "";
 
     public override string ToString()
     {
