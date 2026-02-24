@@ -9,7 +9,9 @@ public enum Modifier
     Strong
 }
 
-
+/* =========================
+   CURRENT HP EVENT ARGS
+   ========================= */
 public class CurrentHPArgs : EventArgs
 {
     public float currentHp { get; }
@@ -20,18 +22,19 @@ public class CurrentHPArgs : EventArgs
     }
 }
 
-
+/* =========================
+   PLAYER CLASS
+   ========================= */
 public class Player
 {
     private string name;
     private float maxHp;
     private float hp;
-
     private string status { get; set; }
 
-    public event EventHandler<CurrentHPArgs> HPCheck;
+    public event EventHandler<CurrentHPArgs>? HPCheck;
 
-    
+    /* -------- CONSTRUCTOR -------- */
     public Player(string name = "Player")
     {
         this.name = name;
@@ -41,17 +44,16 @@ public class Player
 
         status = $"{name} is ready to go!";
 
-        // Subscribe CheckStatus to HPCheck event
         HPCheck += CheckStatus;
     }
 
-    
+    /* -------- PRINT HEALTH -------- */
     public void PrintHealth()
     {
         Console.WriteLine($"{name} has {hp} / {maxHp} health");
     }
 
-    
+    /* -------- TAKE DAMAGE -------- */
     public void TakeDamage(float damage)
     {
         if (damage < 0)
@@ -63,7 +65,7 @@ public class Player
         ValidateHP();
     }
 
-
+    /* -------- HEAL DAMAGE -------- */
     public void HealDamage(float heal)
     {
         if (heal < 0)
@@ -75,7 +77,7 @@ public class Player
         ValidateHP();
     }
 
-    
+    /* -------- VALIDATE HP -------- */
     private void ValidateHP()
     {
         if (hp < 0)
@@ -84,12 +86,11 @@ public class Player
         if (hp > maxHp)
             hp = maxHp;
 
-        // Trigger HPCheck event
         HPCheck?.Invoke(this, new CurrentHPArgs(hp));
     }
 
-    
-    private void CheckStatus(object sender, CurrentHPArgs e)
+    /* -------- CHECK STATUS -------- */
+    private void CheckStatus(object? sender, CurrentHPArgs e)
     {
         float currentHp = e.currentHp;
 
@@ -107,7 +108,7 @@ public class Player
         Console.WriteLine(status);
     }
 
-    
+    /* -------- APPLY MODIFIER -------- */
     public float ApplyModifier(float baseValue, Modifier modifier)
     {
         switch (modifier)
