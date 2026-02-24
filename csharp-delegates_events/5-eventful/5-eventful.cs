@@ -9,7 +9,6 @@ public enum Modifier
     Strong
 }
 
-
 public class CurrentHPArgs : EventArgs
 {
     public float currentHp { get; }
@@ -25,17 +24,18 @@ public class Player
     private string name;
     private float maxHp;
     private float hp;
-
     private string status { get; set; }
 
-    public event EventHandler<CurrentHPArgs> HPCheck;
+    public event EventHandler<CurrentHPArgs>? HPCheck;
 
-    
-    public Player(string name = "Player")
+    public Player(string name = "Player", float maxHp = 100f)
     {
         this.name = name;
 
-        maxHp = 100f;
+        if (maxHp <= 0)
+            maxHp = 100f;
+
+        this.maxHp = maxHp;
         hp = maxHp;
 
         status = $"{name} is ready to go!";
@@ -43,13 +43,11 @@ public class Player
         HPCheck += CheckStatus;
     }
 
-   
     public void PrintHealth()
     {
         Console.WriteLine($"{name} has {hp} / {maxHp} health");
     }
 
-    
     public void TakeDamage(float damage)
     {
         if (damage < 0)
@@ -61,7 +59,6 @@ public class Player
         ValidateHP();
     }
 
-    
     public void HealDamage(float heal)
     {
         if (heal < 0)
@@ -84,24 +81,17 @@ public class Player
         OnCheckStatus(new CurrentHPArgs(hp));
     }
 
-    
     private void OnCheckStatus(CurrentHPArgs e)
     {
-        // Prevent duplicate warnings
         HPCheck -= HPValueWarning;
 
-        // Attach warning only if HP is below 1/4 max HP
         if (e.currentHp < maxHp / 4)
-        {
             HPCheck += HPValueWarning;
-        }
 
-        // Trigger event
         HPCheck?.Invoke(this, e);
     }
 
-    
-    private void CheckStatus(object sender, CurrentHPArgs e)
+    private void CheckStatus(object? sender, CurrentHPArgs e)
     {
         float currentHp = e.currentHp;
 
@@ -119,24 +109,14 @@ public class Player
         Console.WriteLine(status);
     }
 
-    
-    private void HPValueWarning(object sender, CurrentHPArgs e)
+    private void HPValueWarning(object? sender, CurrentHPArgs e)
     {
         if (e.currentHp == 0)
-        {
-            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Health has reached zero!");
-        }
         else
-        {
-            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Health is low!");
-        }
-
-        Console.ResetColor();
     }
 
-    
     public float ApplyModifier(float baseValue, Modifier modifier)
     {
         switch (modifier)
