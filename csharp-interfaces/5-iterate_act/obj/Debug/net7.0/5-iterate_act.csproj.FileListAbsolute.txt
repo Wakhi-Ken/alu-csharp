@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\obj\Debug\net7.0\5-iterate_act.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\obj\Debug\net7.0\5-iterate_act.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\obj\Debug\net7.0\5-iterate_act.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\obj\Debug\net7.0\5-iterate_act.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\obj\Debug\net7.0\5-iterate_act.sourcelink.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\bin\Debug\net7.0\5-iterate_act.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\bin\Debug\net7.0\5-iterate_act.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\bin\Debug\net7.0\5-iterate_act.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\bin\Debug\net7.0\5-iterate_act.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\bin\Debug\net7.0\5-iterate_act.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\obj\Debug\net7.0\5-iterate_act.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\obj\Debug\net7.0\refint\5-iterate_act.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\obj\Debug\net7.0\5-iterate_act.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\obj\Debug\net7.0\5-iterate_act.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\5-iterate_act\obj\Debug\net7.0\ref\5-iterate_act.dll
