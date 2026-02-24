@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\obj\Debug\net7.0\2-doors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\obj\Debug\net7.0\2-doors.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\obj\Debug\net7.0\2-doors.AssemblyInfo.cs
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\obj\Debug\net7.0\2-doors.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\obj\Debug\net7.0\2-doors.sourcelink.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\bin\Debug\net7.0\2-doors.exe
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\bin\Debug\net7.0\2-doors.deps.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\bin\Debug\net7.0\2-doors.runtimeconfig.json
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\bin\Debug\net7.0\2-doors.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\bin\Debug\net7.0\2-doors.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\obj\Debug\net7.0\2-doors.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\obj\Debug\net7.0\refint\2-doors.dll
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\obj\Debug\net7.0\2-doors.pdb
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\obj\Debug\net7.0\2-doors.genruntimeconfig.cache
+C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-interfaces\2-doors\obj\Debug\net7.0\ref\2-doors.dll
