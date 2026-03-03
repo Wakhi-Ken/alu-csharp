@@ -1,15 +1,22 @@
-﻿namespace InventoryManagement.Tests;
+﻿using NUnit.Framework;
+using InventoryLibrary;
 
-public class Tests
+namespace InventoryManagement.Tests
 {
-    [SetUp]
-    public void Setup()
+    public class UnitTest1
     {
-    }
+        private JSONStorage storage;
 
-    [Test]
-    public void Test1()
-    {
-        Assert.Pass();
+        [SetUp]
+        public void Setup()
+        {
+            storage = new JSONStorage();
+        }
+
+        [Test]
+        public void Storage_ShouldStartEmpty()
+        {
+            Assert.That(storage.All().Count, Is.EqualTo(0));
+        }
     }
 }
